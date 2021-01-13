@@ -1,0 +1,8 @@
+venv
+.ipynb_checkpoints/
+__pycache__
+debug.log
+logs
+utils/processed
+cornell_movie_dialogs_corpus
+training_1
